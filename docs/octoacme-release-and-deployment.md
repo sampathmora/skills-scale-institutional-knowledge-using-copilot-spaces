@@ -32,7 +32,11 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
   - Release Manager triggers incident response and notifies on-call
-  - Security Lead engaged immediately if security-related (e.g., data breaches, authentication failures, vulnerability exploits, unauthorized access, or security scanning failures)
+  - Security Lead engaged immediately if incident is security-related, including:
+    - Data breaches or unauthorized data access
+    - Authentication or authorization failures
+    - Vulnerability exploits or attacks
+    - Security scanning failures or compliance violations
   - Rollback to last known-good release if necessary
   - Triage root cause and capture action items
   - Conduct blameless post-incident review facilitated by Scrum Master

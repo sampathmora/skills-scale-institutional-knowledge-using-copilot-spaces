@@ -58,10 +58,10 @@ To address onboarding clarity (per issue #4), new team members should:
 5. Review the project's Risk Register and current sprint backlog
 6. Identify their onboarding buddy (typically assigned by Scrum Master or PM)
 7. Complete role-specific onboarding activities:
-   - **Developers**: Set up dev environment, review coding standards, understand PR workflow
-   - **Scrum Masters**: Shadow existing ceremonies, review team metrics and velocity
-   - **UX Designers**: Review design system, understand user research process
-   - **Release Managers**: Learn release pipeline, review deployment runbooks
-   - **Security Leads**: Review security policies, access scanning tools, understand incident response
+   - **Developers**: Set up dev environment, review coding standards and PR workflow, pair program on first task
+   - **Scrum Masters**: Shadow existing ceremonies for one sprint, review team metrics and velocity, learn facilitation techniques
+   - **UX Designers**: Review design system and brand guidelines, understand user research process, review recent user studies
+   - **Release Managers**: Learn release pipeline and automation tools, review deployment runbooks and rollback procedures, shadow a release
+   - **Security Leads**: Review security policies and compliance requirements, access scanning tools and dashboards, understand incident response process
 
 *This onboarding guidance addresses clarity gaps identified in issue #4.*

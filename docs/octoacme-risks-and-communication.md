@@ -29,16 +29,18 @@ Maintain a simple table with:
 ## Role Accountability Matrix
 To clarify cross-functional handoffs and decision rights (RACI model):
 
+**Abbreviations:** PM = Project Manager, PdM = Product Manager, SM = Scrum Master
+
 | Activity | Responsible | Accountable | Consulted | Informed |
 |----------|-------------|-------------|-----------|----------|
-| Sprint Planning | Scrum Master | Product Manager | Developers, UX Designer | PM, Stakeholders |
-| Design Direction | UX Designer | Product Manager | Developers, PM | Stakeholders |
-| Release Deployment | Release Manager | PM | Developers, Security Lead | Stakeholders |
-| Security Review | Security Lead | PM | Developers, Product Manager | Stakeholders |
-| Backlog Prioritization | Product Manager | Product Manager | Scrum Master, PM | Developers, Stakeholders |
-| Risk Identification | Team Members | PM | Scrum Master | Stakeholders |
+| Sprint Planning | Scrum Master | Product Manager | Developers, UX Designer | Project Manager, Stakeholders |
+| Design Direction | UX Designer | Product Manager | Developers, Project Manager | Stakeholders |
+| Release Deployment | Release Manager | Project Manager | Developers, Security Lead | Stakeholders |
+| Security Review | Security Lead | Project Manager | Developers, Product Manager | Stakeholders |
+| Backlog Prioritization | Product Manager | Product Manager | Scrum Master, Project Manager | Developers, Stakeholders |
+| Risk Identification | Team Members | Project Manager | Scrum Master | Stakeholders |
 
-**Note:** In the RACI model, a single role can be both Responsible and Accountable when they have sole ownership of an activity (e.g., Product Manager for Backlog Prioritization, PM for overall risk management oversight).
+**Note:** In the RACI model, a single role can be both Responsible and Accountable when they have sole ownership of an activity (e.g., Product Manager for Backlog Prioritization).
 
 *This matrix addresses accountability gaps identified in issue #4.*
 

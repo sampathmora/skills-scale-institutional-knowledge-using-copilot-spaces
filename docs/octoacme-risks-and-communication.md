@@ -34,7 +34,7 @@ To clarify cross-functional handoffs and decision rights:
 | Sprint Planning | Scrum Master | Product Manager | Developers, UX Designer | PM, Stakeholders |
 | Design Direction | UX Designer | Product Manager | Developers, PM | Stakeholders |
 | Release Deployment | Release Manager | PM | Developers, Security Lead | Stakeholders |
-| Security Review | Security Lead | Security Lead | Developers, PM | Product Manager |
+| Security Review | Security Lead | PM | Developers, Product Manager | Stakeholders |
 | Backlog Prioritization | Product Manager | Product Manager | PM, Scrum Master | Developers |
 | Risk Management | PM | PM | Scrum Master, all roles | Stakeholders |
 

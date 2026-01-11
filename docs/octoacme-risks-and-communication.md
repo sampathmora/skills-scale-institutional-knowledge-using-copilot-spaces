@@ -27,7 +27,7 @@ Maintain a simple table with:
 - Security Lead communicates security posture and compliance status
 
 ## Role Accountability Matrix
-To clarify cross-functional handoffs and decision rights:
+To clarify cross-functional handoffs and decision rights (RACI model):
 
 | Activity | Responsible | Accountable | Consulted | Informed |
 |----------|-------------|-------------|-----------|----------|
@@ -35,8 +35,10 @@ To clarify cross-functional handoffs and decision rights:
 | Design Direction | UX Designer | Product Manager | Developers, PM | Stakeholders |
 | Release Deployment | Release Manager | PM | Developers, Security Lead | Stakeholders |
 | Security Review | Security Lead | PM | Developers, Product Manager | Stakeholders |
-| Backlog Prioritization | Scrum Master | Product Manager | PM, Developers | Stakeholders |
-| Risk Management | PM | PM | Scrum Master, all roles | Stakeholders |
+| Backlog Prioritization | Product Manager | Product Manager | Scrum Master, PM | Developers, Stakeholders |
+| Risk Identification | Team Members | PM | Scrum Master | Stakeholders |
+
+**Note:** In the RACI model, a single role can be both Responsible and Accountable when they have sole ownership of an activity (e.g., Product Manager for Backlog Prioritization, PM for overall risk management oversight).
 
 *This matrix addresses accountability gaps identified in issue #4.*
 

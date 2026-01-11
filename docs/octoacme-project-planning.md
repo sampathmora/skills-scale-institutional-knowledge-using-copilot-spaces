@@ -15,6 +15,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Coordinate with UX Designer on design readiness and research needs
+8. Work with Security Lead to define security requirements and threat model
 
 ## Backlog Item Template
 - Title:
@@ -29,6 +31,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Timebox planning to agreed sprint length
 - Pull items that meet DoD and have clear acceptance criteria
 - Ensure team capacity is respected
+- Facilitated by Scrum Master with Product Manager providing priorities
+- Confirm design assets are ready with UX Designer before committing work
 
 ## Risk & Dependency Management
 - Capture in Risk Register:
@@ -36,8 +40,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held with all key roles (PM, PdM, Scrum Master, UX Designer, Security Lead, Dev team)
 - [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
+- [ ] Release timeline and milestones agreed with Release Manager
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX research and design timeline aligned with development sprints
+- [ ] Security requirements and threat model reviewed with Security Lead
+- [ ] Dependencies and risks captured in Risk Register
